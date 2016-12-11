@@ -1,5 +1,7 @@
 # Output files of tfidf procedures
 
+Go to https://www.dropbox.com/sh/uc35q2avphqph0w/AABhpbr_sYJN14gOxBiUUWW5a?dl=0
+
 ##Decompress the entire catalog of "Compressed files.zip" to get these:
 
 ##processed files:

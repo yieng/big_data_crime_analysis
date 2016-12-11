@@ -1,0 +1,622 @@
+2448;THEFT: United States, Cook, Chicago, Illinois, Seventh district
+1737;BATTERY: United States, Cook, Chicago, Illinois, First district
+1509;BATTERY: United States, Cook, Chicago, Illinois, Seventh district
+1429;THEFT: United States, Cook, Chicago, Illinois, First district
+1054;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, First district
+980;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Seventh district
+768;THEFT: United States, Cook, Chicago, Illinois
+663;ASSAULT: United States, Cook, Chicago, Illinois, First district
+593;ASSAULT: United States, Cook, Chicago, Illinois, Seventh district
+568;THEFT: United States, Cook, Chicago, Illinois, Fifth district
+548;OTHER OFFENSE: United States, Cook, Chicago, Illinois, First district
+535;BURGLARY: United States, Cook, Chicago, Illinois, First district
+486;THEFT: United States, Cook, Chicago, Illinois, Third district
+466;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Seventh district
+449;ROBBERY: United States, Cook, Chicago, Illinois, Seventh district
+442;BATTERY: United States, Cook, Chicago, Illinois, Third district
+440;NARCOTICS: United States, Cook, Chicago, Illinois, Seventh district
+431;OTHER OFFENSE: United States, Cook, Chicago, Illinois, Seventh district
+420;THEFT: United States, Cook, Chicago, Illinois, Fourth district
+419;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Seventh district
+414;ROBBERY: United States, Cook, Chicago, Illinois, First district
+391;BURGLARY: United States, Cook, Chicago, Illinois, Seventh district
+351;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Third district
+343;BATTERY: United States, Cook, Chicago, Illinois, Second district
+318;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, First district
+314;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, First district
+312;BATTERY: United States, Cook, Chicago, Illinois, Fourth district
+302;BATTERY: United States, Cook, Chicago, Illinois, Fifth district
+258;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Fourth district
+216;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, First district
+208;THEFT: United States, Cook, Chicago, Illinois, Second district
+197;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, Seventh district
+196;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Fifth district
+195;ASSAULT: United States, Cook, Chicago, Illinois, Third district
+194;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Second district
+190;BATTERY: United States, Cook, Chicago, Illinois
+189;BURGLARY: United States, Cook, Chicago, Illinois, Third district
+185;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois
+147;NARCOTICS: United States, Cook, Chicago, Illinois, First district
+142;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Fifth district
+136;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, First district
+136;ASSAULT: United States, Cook, Chicago, Illinois, Second district
+134;BURGLARY: United States, Cook, Chicago, Illinois, Fourth district
+132;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, Seventh district
+129;ASSAULT: United States, Cook, Chicago, Illinois, Fourth district
+128;OTHER OFFENSE: United States, Cook, Chicago, Illinois, Third district
+127;BURGLARY: United States, Cook, Chicago, Illinois, Fifth district
+121;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois
+117;ROBBERY: United States, Cook, Chicago, Illinois, Third district
+114;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Fourth district
+109;BURGLARY: United States, Cook, Chicago, Illinois, Second district
+107;OTHER OFFENSE: United States, Cook, Chicago, Illinois, Second district
+105;ASSAULT: United States, Cook, Chicago, Illinois, Fifth district
+104;OTHER OFFENSE: United States, Cook, Chicago, Illinois, Fourth district
+94;BATTERY: United States, Oak Park, Cook, Chicago, Illinois
+92;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Third district
+89;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Third district
+84;ROBBERY: United States, Cook, Chicago, Illinois, Fourth district
+79;ROBBERY: United States, Cook, Chicago, Illinois, Fifth district
+79;OTHER OFFENSE: United States, Cook, Chicago, Illinois, Fifth district
+78;BATTERY: United States, Cook, Chicago, Illinois, Ninth district
+74;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Fourth district
+73;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Fifth district
+70;THEFT: United States, Oak Park, Cook, Chicago, Illinois
+68;THEFT: United States, Cook, Chicago, Illinois, Ninth district
+66;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Second district
+63;ROBBERY: United States, Cook, Chicago, Illinois
+62;ROBBERY: United States, Cook, Chicago, Illinois, Second district
+58;THEFT: United States, Evanston, Cook, Chicago, Illinois
+57;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Seventh district
+56;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, First district
+56;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, Seventh district
+56;ASSAULT: United States, Cook, Chicago, Illinois
+55;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, Fifth district
+55;BATTERY: United States, Cicero, Cook, Chicago, Illinois
+54;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, First district
+52;NARCOTICS: United States, Cook, Chicago, Illinois, Third district
+52;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, Third district
+50;CRIMINAL DAMAGE: United States, Oak Park, Cook, Chicago, Illinois
+49;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois
+47;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Ninth district
+46;OTHER OFFENSE: United States, Cook, Chicago, Illinois
+44;THEFT: United States, Cook, Sixth district, IL, Chicago
+44;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, Seventh district
+44;BURGLARY: United States, Cook, Chicago, Illinois
+43;THEFT: United States, Cicero, Cook, Chicago, Illinois
+43;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, Second district
+40;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois
+40;BATTERY: United States, Evanston, Cook, Chicago, Illinois
+39;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Second district
+36;MOTOR VEHICLE THEFT: United States, Oak Park, Cook, Chicago, Illinois
+36;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, First district
+33;THEFT: United States, Bedford Park, Burbank, Cook, Chicago
+33;SEX OFFENSE: United States, Cook, Chicago, Illinois, Seventh district
+33;NARCOTICS: United States, Cook, Chicago, Illinois, Second district
+33;NARCOTICS: United States, Cook, Chicago, Illinois, Fourth district
+32;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, Fourth district
+32;CRIMINAL DAMAGE: United States, Cicero, Cook, Chicago, Illinois
+31;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, First district
+31;ASSAULT: United States, Oak Park, Cook, Chicago, Illinois
+29;OTHER OFFENSE: United States, Oak Park, Cook, Chicago, Illinois
+28;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, Seventh district
+28;CRIMINAL DAMAGE: United States, Evanston, Cook, Chicago, Illinois
+27;HOMICIDE: United States, Cook, Chicago, Illinois, Seventh district
+27;HOMICIDE: United States, Cook, Chicago, Illinois, First district
+25;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, Fourth district
+25;THEFT: United States, Lincolnwood, Cook, Chicago, Illinois
+24;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, Third district
+24;SEX OFFENSE: United States, Cook, Chicago, Illinois, First district
+24;PROSTITUTION: United States, Cicero, Cook, Chicago, Illinois
+24;OTHER OFFENSE: United States, Cook, Chicago, Illinois, Ninth district
+24;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Ninth district
+23;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Third district
+22;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, Second district
+22;THEFT: United States, Forest View, , Cook, Chicago
+20;ASSAULT: United States, Cook, Chicago, Illinois, Ninth district
+19;ROBBERY: United States, Oak Park, Cook, Chicago, Illinois
+19;BURGLARY: United States, Cook, Chicago, Illinois, Ninth district
+19;ASSAULT: United States, Evanston, Cook, Chicago, Illinois
+18;PROSTITUTION: United States, Cook, Chicago, Illinois, First district
+18;NARCOTICS: United States, Cook, Chicago, Illinois
+17;THEFT: United States, Evergreen Park, Cook, Chicago, Illinois
+17;THEFT: United States, Cook, Chicago, Riverdale, Illinois
+17;PROSTITUTION: United States, Cook, Chicago, Illinois, Seventh district
+17;DECEPTIVE PRACTICE: United States, Cook, Sixth district, IL, Chicago
+17;ARSON: United States, Cook, Chicago, Illinois, Seventh district
+16;THEFT: United States, Bedford Park, Cook, Chicago, Illinois
+16;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Second district
+16;NARCOTICS: United States, Cook, Chicago, Illinois, Fifth district
+16;DECEPTIVE PRACTICE: United States, Evanston, Cook, Chicago, Illinois
+16;BURGLARY: United States, Oak Park, Cook, Chicago, Illinois
+16;BATTERY: United States, Bedford Park, Cook, Chicago, Illinois
+15;ROBBERY: United States, Cook, Chicago, Illinois, Ninth district
+15;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Ninth district
+15;DECEPTIVE PRACTICE: United States, Oak Park, Cook, Chicago, Illinois
+15;BURGLARY: United States, Evanston, Cook, Chicago, Illinois
+15;ASSAULT: United States, Cook, Chicago, Riverdale, Illinois
+15;ASSAULT: United States, Cicero, Cook, Chicago, Illinois
+14;ROBBERY: United States, Cicero, Cook, Chicago, Illinois
+14;OTHER OFFENSE: United States, Evanston, Cook, Chicago, Illinois
+14;MOTOR VEHICLE THEFT: United States, Cicero, Cook, Chicago, Illinois
+14;GAMBLING: United States, Cook, Chicago, Illinois, Seventh district
+13;THEFT: United States, Evergreen Park, , Cook, Chicago
+13;DECEPTIVE PRACTICE: United States, Bedford Park, Cook, Chicago, Illinois
+13;CRIMINAL DAMAGE: United States, Bedford Park, Cook, Chicago, Illinois
+13;BATTERY: United States, Lincolnwood, Cook, Chicago, Illinois
+13;BATTERY: United States, Cook, Chicago, Riverdale, Illinois
+13;ARSON: United States, Cook, Chicago, Illinois, Third district
+13;ARSON: United States, Cook, Chicago, Illinois, First district
+12;THEFT: United States, Chicago, Norridge, Cook, Chicago
+12;SEX OFFENSE: United States, Cook, Chicago, Illinois, Fourth district
+12;PROSTITUTION: United States, Cook, Chicago, Illinois, Fourth district
+12;CRIMINAL DAMAGE: United States, Evergreen Park, Cook, Chicago, Illinois
+12;CRIMINAL DAMAGE: United States, Cook, Chicago, Riverdale, Illinois
+12;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, Fifth district
+12;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois
+12;BURGLARY: United States, Lincolnwood, Cook, Chicago, Illinois
+12;BATTERY: United States, Chicago, Norridge, Cook, Chicago
+11;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, Second district
+11;HOMICIDE: United States, Cook, Chicago, Illinois, Second district
+11;CRIMINAL TRESPASS: United States, Cook, Chicago, Illinois, Ninth district
+11;CRIMINAL DAMAGE: United States, Forest View, , Cook, Chicago
+11;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, Third district
+11;BATTERY: United States, Oak Park, Berwyn, Cicero, Cook
+11;BATTERY: United States, Cook, Sixth district, IL, Chicago
+10;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, Third district
+10;NARCOTICS: United States, Cicero, Cook, Chicago, Illinois
+10;HOMICIDE: United States, Cook, Chicago, Illinois, Third district
+10;DECEPTIVE PRACTICE: United States, Lincolnwood, Cook, Chicago, Illinois
+10;DECEPTIVE PRACTICE: United States, Forest View, , Cook, Chicago
+10;BURGLARY: United States, Cicero, Cook, Chicago, Illinois
+10;BATTERY: United States, Cook, Chicago, Burnham, Illinois
+10;ASSAULT: United States, Lincolnwood, Cook, Chicago, Illinois
+10;ASSAULT: United States, Forest View, , Cook, Chicago
+9;THEFT: United States, Indiana, Cook, Chicago, Lake
+9;THEFT: United States, Chicago, Harwood Heights, Cook, Chicago
+9;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, Fourth district
+9;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Fourth district
+9;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Fifth district
+9;NARCOTICS: United States, Oak Park, Cook, Chicago, Illinois
+9;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois, Seventh district
+9;KIDNAPPING: United States, Cook, Chicago, Illinois, First district
+9;GAMBLING: United States, Cook, Chicago, Illinois, First district
+9;DECEPTIVE PRACTICE: United States, Cicero, Cook, Chicago, Illinois
+8;THEFT: United States, Cook, Chicago, Illinois, Lincoln Park
+8;SEX OFFENSE: United States, Cook, Chicago, Illinois, Third district
+8;SEX OFFENSE: United States, Cook, Chicago, Illinois, Fifth district
+8;SEX OFFENSE: United States, Cook, Chicago, Illinois
+8;ROBBERY: United States, Evanston, Cook, Chicago, Illinois
+8;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, Fifth district
+8;PROSTITUTION: United States, Cook, Chicago, Illinois, Third district
+8;OTHER OFFENSE: United States, Cicero, Cook, Chicago, Illinois
+8;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Riverdale, Illinois
+8;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, Third district
+8;CRIMINAL TRESPASS: United States, Cook, Sixth district, IL, Chicago
+8;CRIMINAL DAMAGE: United States, Lincolnwood, Cook, Chicago, Illinois
+8;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, Fourth district
+8;BURGLARY: United States, Forest View, , Cook, Chicago
+7;WEAPONS VIOLATION: United States, Oak Park, Cook, Chicago, Illinois
+7;THEFT: United States, Skokie, Lincolnwood, Evanston, Cook
+7;OTHER OFFENSE: United States, Bedford Park, Cook, Chicago, Illinois
+7;CRIMINAL DAMAGE: United States, River Grove, Elmwood Park, Cook, Chicago
+7;BURGLARY: United States, Bedford Park, Cook, Chicago, Illinois
+7;BATTERY: United States, Forest View, , Cook, Chicago
+7;BATTERY: United States, Cook, Chicago, Riverdale, Dolton
+7;ASSAULT: United States, Bedford Park, Cook, Chicago, Illinois
+6;THEFT: United States, Niles, Cook, Chicago, Illinois
+6;STALKING: United States, Cook, Chicago, Illinois, First district
+6;ROBBERY: United States, Cook, Chicago, Riverdale, Illinois
+6;OTHER OFFENSE: United States, Cook, Chicago, Riverdale, Illinois
+6;OTHER OFFENSE: United States, Chicago, Norridge, Cook, Chicago
+6;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois
+6;NARCOTICS: United States, Cook, Chicago, Illinois, Ninth district
+6;MOTOR VEHICLE THEFT: United States, Evanston, Cook, Chicago, Illinois
+6;INTIMIDATION: United States, Cook, Chicago, Illinois, Seventh district
+6;DECEPTIVE PRACTICE: United States, Evergreen Park, Cook, Chicago, Illinois
+6;CRIMINAL TRESPASS: United States, Oak Park, Cook, Chicago, Illinois
+6;CRIMINAL DAMAGE: United States, Park Ridge, Niles, Cook, Chicago
+6;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, Second district
+6;BURGLARY: United States, Chicago, Norridge, Harwood Heights, 
+6;BATTERY: United States, Evergreen Park, Cook, Chicago, Illinois
+6;BATTERY: United States, Elmwood Park, Cook, Chicago, Illinois
+6;BATTERY: United States, Chicago, Norridge, Harwood Heights, 
+6;ASSAULT: United States, Cook, Sixth district, IL, Chicago
+6;ASSAULT: United States, Burbank, Hometown, Cook, Chicago
+5;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, Fifth district
+5;THEFT: United States, River Forest, Elmwood Park, Oak Park, Cook
+5;THEFT: United States, Hometown, , Cook, Chicago
+5;THEFT: United States, Elmwood Park, Cook, Chicago, Illinois
+5;THEFT: United States, Cook, DuPage, Sixth district, IL
+5;THEFT: United States, Chicago, Norridge, Harwood Heights, Cook
+5;THEFT: United States, Burbank, Hometown, Cook, Chicago
+5;THEFT: United States, , Cook, Chicago, Illinois
+5;ROBBERY: United States, Forest View, , Cook, Chicago
+5;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, Second district
+5;OTHER OFFENSE: United States, Forest View, , Cook, Chicago
+5;OTHER OFFENSE: United States, Elmwood Park, Cook, Chicago, Illinois
+5;NON-CRIMINAL: United States, Cook, Chicago, Illinois, Seventh district
+5;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, Fourth district
+5;DECEPTIVE PRACTICE: United States, Niles, Cook, Chicago, Illinois
+5;CRIMINAL TRESPASS: United States, Lincolnwood, Cook, Chicago, Illinois
+5;CRIMINAL DAMAGE: United States, Park Ridge, Chicago, Norridge, Cook
+5;CRIMINAL DAMAGE: United States, Hometown, , Cook, Chicago
+5;CRIMINAL DAMAGE: United States, Evergreen Park, , Cook, Chicago
+5;CRIMINAL DAMAGE: United States, Chicago, Harwood Heights, Cook, Chicago
+5;BATTERY: United States, Burbank, Hometown, Cook, Chicago
+5;ARSON: United States, Cook, Chicago, Illinois, Fourth district
+4;WEAPONS VIOLATION: United States, Cook, Chicago, Riverdale, Illinois
+4;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois, Ninth district
+4;THEFT: United States, Stickney, Forest View, , Cook
+4;THEFT: United States, Park Ridge, Chicago, Norridge, Cook
+4;THEFT: United States, Oak Park, Cicero, Cook, Chicago
+4;THEFT: United States, Lyons, Summit, Forest View, Cook
+4;THEFT: United States, Cook, Chicago, Illinois, Uptown
+4;STALKING: United States, Cook, Chicago, Illinois, Third district
+4;SEX OFFENSE: United States, Cook, Chicago, Illinois, Second district
+4;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois
+4;OTHER OFFENSE: United States, Lincolnwood, Cook, Chicago, Illinois
+4;OTHER OFFENSE: United States, Evergreen Park, Cook, Chicago, Illinois
+4;OTHER OFFENSE: United States, Cook, Sixth district, IL, Chicago
+4;OTHER OFFENSE: United States, Cook, Chicago, Riverdale, Dolton
+4;OTHER OFFENSE: United States, Chicago, Norridge, Harwood Heights, Cook
+4;OFFENSE INVOLVING CHILDREN: United States, Oak Park, Cook, Chicago, Illinois
+4;MOTOR VEHICLE THEFT: United States, Forest View, , Cook, Chicago
+4;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Lake, Hammond
+4;MOTOR VEHICLE THEFT: United States, Bedford Park, Cook, Chicago, Illinois
+4;KIDNAPPING: United States, Cook, Chicago, Illinois, Second district
+4;KIDNAPPING: United States, Cook, Chicago, Illinois, Fourth district
+4;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, Fifth district
+4;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois
+4;DECEPTIVE PRACTICE: United States, Evergreen Park, , Cook, Chicago
+4;DECEPTIVE PRACTICE: United States, Elmwood Park, Cook, Chicago, Illinois
+4;DECEPTIVE PRACTICE: United States, Cook, Chicago, Riverdale, Illinois
+4;CRIMINAL TRESPASS: United States, Cook, Chicago, Riverdale, Illinois
+4;CRIMINAL TRESPASS: United States, Cicero, Cook, Chicago, Illinois
+4;CRIMINAL DAMAGE: United States, Cook, Chicago, Lake, Hammond
+4;CRIMINAL DAMAGE: United States, Cook, Chicago, Illinois, Lincoln Park
+4;CRIMINAL DAMAGE: United States, Cook, Chicago, Dolton, Illinois
+4;CRIMINAL DAMAGE: United States, Cook, Chicago, Burnham, Illinois
+4;CRIMINAL DAMAGE: United States, Chicago, Norridge, Cook, Chicago
+4;CRIMINAL DAMAGE: United States, Bedford Park, Burbank, Cook, Chicago
+4;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Illinois, Ninth district
+4;BURGLARY: United States, Park Ridge, Cook, Chicago, Illinois
+4;BURGLARY: United States, Elmwood Park, Cook, Chicago, Illinois
+4;BURGLARY: United States, Burbank, Hometown, Cook, Chicago
+4;BATTERY: United States, Stickney, Forest View, , Cook
+4;BATTERY: United States, River Grove, Elmwood Park, Cook, Chicago
+4;BATTERY: United States, Park Ridge, Chicago, Norridge, Cook
+4;BATTERY: United States, Oak Park, Cicero, Cook, Chicago
+4;BATTERY: United States, Hometown, Evergreen Park, , Cook
+4;BATTERY: United States, Cook, Chicago, Dolton, Illinois
+4;BATTERY: United States, Burbank, Cook, Chicago, Illinois
+4;BATTERY: United States, , Cook, Chicago, Illinois
+4;ASSAULT: United States, Oak Park, Berwyn, Cicero, Cook
+4;ASSAULT: United States, Evergreen Park, , Cook, Chicago
+4;ARSON: United States, Oak Park, Berwyn, Cicero, Cook
+3;WEAPONS VIOLATION: United States, Cook, Chicago, Illinois
+3;WEAPONS VIOLATION: United States, Cicero, Cook, Chicago, Illinois
+3;THEFT: United States, Summit, Forest View, Cook, Chicago
+3;THEFT: United States, River Grove, Elmwood Park, Cook, Chicago
+3;THEFT: United States, Oak Park, Berwyn, Cicero, Cook
+3;THEFT: United States, Hometown, Evergreen Park, , Cook
+3;THEFT: United States, Forest View, Cook, Chicago, Illinois
+3;THEFT: United States, Cook, Chicago, Lake, Hammond
+3;THEFT: United States, Chicago, Norridge, Harwood Heights, 
+3;THEFT: United States, Bedford Park, Summit, Cook, Chicago
+3;STALKING: United States, Cook, Chicago, Illinois, Seventh district
+3;STALKING: United States, Cook, Chicago, Illinois, Second district
+3;STALKING: United States, Cook, Chicago, Illinois, Fourth district
+3;ROBBERY: United States, Hometown, Evergreen Park, , Cook
+3;ROBBERY: United States, Hometown, , Cook, Chicago
+3;PUBLIC PEACE VIOLATION: United States, Cook, Sixth district, IL, Chicago
+3;PROSTITUTION: United States, Cook, Chicago, Illinois, Ninth district
+3;OTHER OFFENSE: United States, Hometown, Evergreen Park, , Cook
+3;OTHER OFFENSE: United States, Evergreen Park, , Cook, Chicago
+3;OTHER OFFENSE: United States, , Cook, Chicago, Illinois
+3;OFFENSE INVOLVING CHILDREN: United States, Forest View, , Cook, Chicago
+3;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Ninth district
+3;NARCOTICS: United States, Evanston, Cook, Chicago, Illinois
+3;MOTOR VEHICLE THEFT: United States, Evergreen Park, Cook, Chicago, Illinois
+3;MOTOR VEHICLE THEFT: United States, Evergreen Park, , Cook, Chicago
+3;MOTOR VEHICLE THEFT: United States, Elmwood Park, Cook, Chicago, Illinois
+3;MOTOR VEHICLE THEFT: United States, Burbank, Hometown, Cook, Chicago
+3;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois, Fourth district
+3;KIDNAPPING: United States, Cook, Chicago, Illinois, Seventh district
+3;KIDNAPPING: United States, Cook, Chicago, Illinois, Fifth district
+3;INTERFERENCE WITH PUBLIC OFFICER: United States, Evanston, Cook, Chicago, Illinois
+3;HOMICIDE: United States, Cook, Chicago, Illinois
+3;DECEPTIVE PRACTICE: United States, Burbank, Hometown, Cook, Chicago
+3;DECEPTIVE PRACTICE: United States, Bedford Park, Summit, Cook, Chicago
+3;DECEPTIVE PRACTICE: United States, Bedford Park, Burbank, Cook, Chicago
+3;CRIMINAL TRESPASS: United States, Skokie, Lincolnwood, Evanston, Cook
+3;CRIMINAL TRESPASS: United States, Lyons, Summit, Forest View, Cook
+3;CRIMINAL DAMAGE: United States, Stickney, Forest View, , Cook
+3;CRIMINAL DAMAGE: United States, Hometown, Evergreen Park, , Cook
+3;CRIMINAL DAMAGE: United States, Cook, Sixth district, IL, Chicago
+3;CRIMINAL DAMAGE: United States, Chicago, Norridge, Harwood Heights, 
+3;CRIMINAL DAMAGE: United States, Burbank, Hometown, Cook, Chicago
+3;CRIMINAL DAMAGE: United States, Bedford Park, Summit, Cook, Chicago
+3;BURGLARY: United States, Skokie, Lincolnwood, Evanston, Cook
+3;BURGLARY: United States, Niles, Cook, Chicago, Illinois
+3;BURGLARY: United States, Cook, Chicago, Riverdale, Illinois
+3;BATTERY: United States, Summit, Forest View, Cook, Chicago
+3;BATTERY: United States, Park Ridge, Niles, Cook, Chicago
+3;BATTERY: United States, Park Ridge, Cook, Chicago, Illinois
+3;BATTERY: United States, Niles, Cook, Chicago, Illinois
+3;BATTERY: United States, Evergreen Park, , Cook, Chicago
+3;ASSAULT: United States, Oak Park, Cicero, Cook, Chicago
+3;ASSAULT: United States, Niles, Cook, Chicago, Illinois
+3;ASSAULT: United States, Hometown, , Cook, Chicago
+3;ASSAULT: United States, Elmwood Park, Cook, Chicago, Illinois
+3;ASSAULT: United States, Cook, Chicago, Dolton, Illinois
+3;ARSON: United States, Cook, Chicago, Illinois, Second district
+2;WEAPONS VIOLATION: United States, Oak Park, Cicero, Cook, Chicago
+2;WEAPONS VIOLATION: United States, Hometown, Evergreen Park, , Cook
+2;WEAPONS VIOLATION: United States, Evergreen Park, , Cook, Chicago
+2;THEFT: United States, Stickney, Forest View, Cook, Chicago
+2;THEFT: United States, Skokie, Lincolnwood, Cook, Chicago
+2;THEFT: United States, Park Ridge, Niles, Cook, Chicago
+2;THEFT: United States, Niles, Skokie, Lincolnwood, Cook
+2;THEFT: United States, Indiana, Cook, Chicago, Burnham
+2;THEFT: United States, Hometown, Cook, Chicago, Illinois
+2;THEFT: United States, Cook, Chicago, Burnham, Illinois
+2;SEX OFFENSE: United States, Cook, Chicago, Illinois, Ninth district
+2;ROBBERY: United States, Park Ridge, Niles, Cook, Chicago
+2;ROBBERY: United States, Evergreen Park, , Cook, Chicago
+2;ROBBERY: United States, Elmwood Park, Cook, Chicago, Illinois
+2;ROBBERY: United States, Cook, Chicago, Dolton, Illinois
+2;ROBBERY: United States, Bedford Park, Cook, Chicago, Illinois
+2;PUBLIC PEACE VIOLATION: United States, Oak Park, Cook, Chicago, Illinois
+2;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Illinois, Ninth district
+2;PUBLIC PEACE VIOLATION: United States, Cicero, Cook, Chicago, Illinois
+2;PROSTITUTION: United States, Cook, Chicago, Illinois
+2;OTHER OFFENSE: United States, Indiana, Cook, Chicago, Lake
+2;OTHER OFFENSE: United States, Hometown, , Cook, Chicago
+2;OTHER OFFENSE: United States, Cook, DuPage, Sixth district, IL
+2;OTHER OFFENSE: United States, Chicago, Norridge, Elmwood Park, Cook
+2;OTHER OFFENSE: United States, Chicago, Harwood Heights, Cook, Chicago
+2;OFFENSE INVOLVING CHILDREN: United States, Bedford Park, Cook, Chicago, Illinois
+2;MOTOR VEHICLE THEFT: United States, Niles, Cook, Chicago, Illinois
+2;MOTOR VEHICLE THEFT: United States, Lincolnwood, Cook, Chicago, Illinois
+2;MOTOR VEHICLE THEFT: United States, Indiana, Cook, Chicago, Lake
+2;MOTOR VEHICLE THEFT: United States, Hometown, Evergreen Park, , Cook
+2;MOTOR VEHICLE THEFT: United States, Chicago, Norridge, Harwood Heights, 
+2;MOTOR VEHICLE THEFT: United States, Chicago, Harwood Heights, Cook, Chicago
+2;MOTOR VEHICLE THEFT: United States, , Cook, Chicago, Illinois
+2;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois, Third district
+2;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois, First district
+2;INTIMIDATION: United States, Cook, Chicago, Illinois, Third district
+2;INTERFERENCE WITH PUBLIC OFFICER: United States, Oak Park, Cook, Chicago, Illinois
+2;INTERFERENCE WITH PUBLIC OFFICER: United States, Cicero, Cook, Chicago, Illinois
+2;HUMAN TRAFFICKING: United States, Cook, Chicago, Illinois, First district
+2;HOMICIDE: United States, Oak Park, Cook, Chicago, Illinois
+2;HOMICIDE: United States, Cicero, Cook, Chicago, Illinois
+2;DECEPTIVE PRACTICE: United States, Skokie, Lincolnwood, Evanston, Cook
+2;DECEPTIVE PRACTICE: United States, River Forest, Elmwood Park, Oak Park, Cook
+2;DECEPTIVE PRACTICE: United States, Cook, Chicago, Burnham, Illinois
+2;DECEPTIVE PRACTICE: United States, Burbank, Cook, Chicago, Illinois
+2;CRIMINAL TRESPASS: United States, Park Ridge, Cook, Chicago, Illinois
+2;CRIMINAL TRESPASS: United States, Indiana, Cook, Chicago, Lake
+2;CRIMINAL TRESPASS: United States, Evergreen Park, , Cook, Chicago
+2;CRIMINAL TRESPASS: United States, Evanston, Cook, Chicago, Illinois
+2;CRIMINAL DAMAGE: United States, Skokie, Lincolnwood, Evanston, Cook
+2;CRIMINAL DAMAGE: United States, River Forest, Elmwood Park, Oak Park, Cook
+2;CRIMINAL DAMAGE: United States, Park Ridge, Cook, Chicago, Illinois
+2;CRIMINAL DAMAGE: United States, Niles, Cook, Chicago, Illinois
+2;CRIMINAL DAMAGE: United States, Elmwood Park, Cook, Chicago, Illinois
+2;CRIMINAL DAMAGE: United States, Cook, DuPage, Sixth district, IL
+2;CRIMINAL DAMAGE: United States, Chicago, Norridge, Harwood Heights, Cook
+2;CRIM SEXUAL ASSAULT: United States, Oak Park, Cook, Chicago, Illinois
+2;CRIM SEXUAL ASSAULT: United States, Evanston, Cook, Chicago, Illinois
+2;CRIM SEXUAL ASSAULT: United States, Cicero, Cook, Chicago, Illinois
+2;CONCEALED CARRY LICENSE VIOLATION: United States, Cook, Chicago, Illinois, Third district
+2;BURGLARY: United States, Stickney, Forest View, , Cook
+2;BURGLARY: United States, Evergreen Park, Cook, Chicago, Illinois
+2;BURGLARY: United States, Evergreen Park, , Cook, Chicago
+2;BURGLARY: United States, Cook, Chicago, Riverdale, Dolton
+2;BURGLARY: United States, Chicago, Norridge, Cook, Chicago
+2;BURGLARY: United States, Chicago, Harwood Heights, Cook, Chicago
+2;BATTERY: United States, River Grove, Chicago, Norridge, Elmwood Park
+2;BATTERY: United States, River Forest, Elmwood Park, Oak Park, Cook
+2;BATTERY: United States, Cook, Chicago, Illinois, Edgewater
+2;BATTERY: United States, Chicago, Norridge, Harwood Heights, Cook
+2;BATTERY: United States, Chicago, Harwood Heights, Cook, Chicago
+2;BATTERY: United States, Burbank, Hometown, , Cook
+2;BATTERY: United States, Bedford Park, Burbank, Cook, Chicago
+2;ASSAULT: United States, Stickney, Forest View, , Cook
+2;ASSAULT: United States, Park Ridge, Niles, Cook, Chicago
+2;ASSAULT: United States, Indiana, Cook, Chicago, Lake
+2;ASSAULT: United States, Evergreen Park, Cook, Chicago, Illinois
+2;ASSAULT: United States, Cook, Chicago, Riverdale, Dolton
+2;ASSAULT: United States, Cook, Chicago, Burnham, Illinois
+2;ASSAULT: United States, Chicago, Norridge, Cook, Chicago
+2;ASSAULT: United States, Chicago, Harwood Heights, Cook, Chicago
+2;ASSAULT: United States, Burbank, Cook, Chicago, Illinois
+2;ASSAULT: United States, Bedford Park, Burbank, Cook, Chicago
+2;ASSAULT: United States, , Cook, Chicago, Illinois
+1;WEAPONS VIOLATION: United States, Lincolnwood, Cook, Chicago, Illinois
+1;WEAPONS VIOLATION: United States, Evanston, Cook, Chicago, Illinois
+1;THEFT: United States, River Grove, Chicago, Norridge, Elmwood Park
+1;THEFT: United States, Park Ridge, Cook, Chicago, Illinois
+1;THEFT: United States, Cook, Illinois
+1;THEFT: United States, Cook, Chicago, Illinois, Loop
+1;THEFT: United States, Cook, Chicago, Illinois, Edgewater
+1;THEFT: United States, Cook, Chicago, Dolton, Illinois
+1;THEFT: United States, Chicago, Norridge, Elmwood Park, Cook
+1;THEFT: United States, , Cook, Sixth district, IL
+1;STALKING: United States, Cook, Chicago, Illinois, Fifth district
+1;SEX OFFENSE: United States, Lincolnwood, Cook, Chicago, Illinois
+1;SEX OFFENSE: United States, Forest View, , Cook, Chicago
+1;SEX OFFENSE: United States, Cook, Chicago, Lake, Hammond
+1;ROBBERY: United States, River Forest, Elmwood Park, Oak Park, Cook
+1;ROBBERY: United States, Oak Park, Cicero, Cook, Chicago
+1;ROBBERY: United States, Lyons, Summit, Forest View, Cook
+1;ROBBERY: United States, Lincolnwood, Cook, Chicago, Illinois
+1;ROBBERY: United States, Cook, Chicago, Riverdale, Dolton
+1;ROBBERY: United States, Cook, Chicago, Illinois, Lincoln Park
+1;ROBBERY: United States, Chicago, Norridge, Cook, Chicago
+1;ROBBERY: United States, Chicago, Harwood Heights, Cook, Chicago
+1;ROBBERY: United States, , Cook, Chicago, Illinois
+1;PUBLIC PEACE VIOLATION: United States, Park Ridge, Chicago, Norridge, Cook
+1;PUBLIC PEACE VIOLATION: United States, Lyons, Summit, Forest View, Cook
+1;PUBLIC PEACE VIOLATION: United States, Cook, Chicago, Dolton, Illinois
+1;PUBLIC INDECENCY: United States, Cook, Chicago, Illinois, Seventh district
+1;PUBLIC INDECENCY: United States, Bedford Park, Cook, Chicago, Illinois
+1;PROSTITUTION: United States, Evanston, Cook, Chicago, Illinois
+1;PROSTITUTION: United States, Cook, Chicago, Illinois, Second district
+1;OTHER OFFENSE: United States, Summit, Forest View, Cook, Chicago
+1;OTHER OFFENSE: United States, Stickney, Forest View, , Cook
+1;OTHER OFFENSE: United States, River Grove, Elmwood Park, Cook, Chicago
+1;OTHER OFFENSE: United States, River Grove, Chicago, Norridge, Elmwood Park
+1;OTHER OFFENSE: United States, River Grove, Chicago, Norridge, Cook
+1;OTHER OFFENSE: United States, Park Ridge, Niles, Cook, Chicago
+1;OTHER OFFENSE: United States, Park Ridge, Chicago, Norridge, Cook
+1;OTHER OFFENSE: United States, Oak Park, Cicero, Cook, Chicago
+1;OTHER OFFENSE: United States, Oak Park, Berwyn, Cicero, Cook
+1;OTHER OFFENSE: United States, Cook, Chicago, Lake, Hammond
+1;OTHER OFFENSE: United States, Cook, Chicago, Dolton, Illinois
+1;OTHER OFFENSE: United States, Chicago, Norridge, Harwood Heights, 
+1;OTHER OFFENSE: United States, Burbank, Hometown, Cook, Chicago
+1;OTHER OFFENSE: United States, Burbank, Cook, Chicago, Illinois
+1;OTHER OFFENSE: United States, Bedford Park, Burbank, Cook, Chicago
+1;OFFENSE INVOLVING CHILDREN: United States, Lincolnwood, Cook, Chicago, Illinois
+1;OFFENSE INVOLVING CHILDREN: United States, Evergreen Park, , Cook, Chicago
+1;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Riverdale, Illinois
+1;OFFENSE INVOLVING CHILDREN: United States, Cook, Chicago, Illinois, Edgewater
+1;OFFENSE INVOLVING CHILDREN: United States, Cicero, Cook, Chicago, Illinois
+1;OFFENSE INVOLVING CHILDREN: United States, Bedford Park, Burbank, Cook, Chicago
+1;OBSCENITY: United States, Cook, Chicago, Illinois, Seventh district
+1;OBSCENITY: United States, Cook, Chicago, Illinois, Fifth district
+1;NON-CRIMINAL: United States, Evanston, Cook, Chicago, Illinois
+1;NON-CRIMINAL: United States, Cook, Chicago, Illinois, First district
+1;NON-CRIMINAL: United States, Cook, Chicago, Illinois
+1;NARCOTICS: United States, Stickney, Forest View, , Cook
+1;NARCOTICS: United States, River Grove, Chicago, Norridge, Elmwood Park
+1;NARCOTICS: United States, Oak Park, Cicero, Cook, Chicago
+1;NARCOTICS: United States, Niles, Cook, Chicago, Illinois
+1;NARCOTICS: United States, Lincolnwood, Cook, Chicago, Illinois
+1;NARCOTICS: United States, Forest View, , Cook, Chicago
+1;NARCOTICS: United States, Cook, Sixth district, IL, Chicago
+1;MOTOR VEHICLE THEFT: United States, Stickney, Forest View, Cicero, Cook
+1;MOTOR VEHICLE THEFT: United States, Skokie, Lincolnwood, Evanston, Cook
+1;MOTOR VEHICLE THEFT: United States, Park Ridge, Niles, Cook, Chicago
+1;MOTOR VEHICLE THEFT: United States, Park Ridge, Chicago, Norridge, Cook
+1;MOTOR VEHICLE THEFT: United States, Oak Park, Berwyn, Cicero, Cook
+1;MOTOR VEHICLE THEFT: United States, Niles, Skokie, Lincolnwood, Cook
+1;MOTOR VEHICLE THEFT: United States, Lyons, Summit, Forest View, Cook
+1;MOTOR VEHICLE THEFT: United States, Cook, Sixth district, IL, Chicago
+1;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Riverdale, Dolton
+1;MOTOR VEHICLE THEFT: United States, Cook, Chicago, Illinois, Lincoln Park
+1;MOTOR VEHICLE THEFT: United States, Chicago, Norridge, Harwood Heights, Cook
+1;MOTOR VEHICLE THEFT: United States, Chicago, Norridge, Elmwood Park, Cook
+1;MOTOR VEHICLE THEFT: United States, Chicago, Norridge, Cook, Chicago
+1;MOTOR VEHICLE THEFT: United States, Burbank, Cook, Chicago, Illinois
+1;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois, Second district
+1;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois, Fifth district
+1;LIQUOR LAW VIOLATION: United States, Cook, Chicago, Illinois
+1;LIQUOR LAW VIOLATION: United States, Chicago, Harwood Heights, Cook, Chicago
+1;KIDNAPPING: United States, Skokie, Lincolnwood, Cook, Chicago
+1;KIDNAPPING: United States, Cook, Chicago, Illinois
+1;INTIMIDATION: United States, Cook, Chicago, Illinois, Fifth district
+1;INTERFERENCE WITH PUBLIC OFFICER: United States, Park Ridge, Cook, Chicago, Illinois
+1;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Sixth district, IL, Chicago
+1;INTERFERENCE WITH PUBLIC OFFICER: United States, Cook, Chicago, Illinois, Ninth district
+1;HOMICIDE: United States, Hometown, Evergreen Park, , Cook
+1;HOMICIDE: United States, Evergreen Park, Cook, Chicago, Illinois
+1;HOMICIDE: United States, Evanston, Cook, Chicago, Illinois
+1;HOMICIDE: United States, Cook, Chicago, Riverdale, Illinois
+1;HOMICIDE: United States, Cook, Chicago, Illinois, Fourth district
+1;HOMICIDE: United States, Bedford Park, Cook, Chicago, Illinois
+1;GAMBLING: United States, Cook, Chicago, Illinois, Third district
+1;GAMBLING: United States, Cook, Chicago, Illinois, Second district
+1;GAMBLING: United States, Cicero, Cook, Chicago, Illinois
+1;DECEPTIVE PRACTICE: United States, Skokie, Lincolnwood, Cook, Chicago
+1;DECEPTIVE PRACTICE: United States, River Grove, Elmwood Park, Cook, Chicago
+1;DECEPTIVE PRACTICE: United States, River Grove, Chicago, Norridge, Elmwood Park
+1;DECEPTIVE PRACTICE: United States, Park Ridge, Niles, Cook, Chicago
+1;DECEPTIVE PRACTICE: United States, Park Ridge, Cook, Chicago, Illinois
+1;DECEPTIVE PRACTICE: United States, Oak Park, Cicero, Cook, Chicago
+1;DECEPTIVE PRACTICE: United States, Niles, Skokie, Cook, Chicago
+1;DECEPTIVE PRACTICE: United States, Indiana, Cook, Chicago, Lake
+1;DECEPTIVE PRACTICE: United States, Forest View, Cook, Chicago, Illinois
+1;DECEPTIVE PRACTICE: United States, Cook, Chicago, Illinois, Lincoln Park
+1;DECEPTIVE PRACTICE: United States, Chicago, Norridge, Harwood Heights, Cook
+1;DECEPTIVE PRACTICE: United States, Chicago, Norridge, Elmwood Park, Cook
+1;DECEPTIVE PRACTICE: United States, Chicago, Harwood Heights, Cook, Chicago
+1;DECEPTIVE PRACTICE: United States, , Cook, Sixth district, IL
+1;CRIMINAL TRESPASS: United States, Oak Park, Cicero, Cook, Chicago
+1;CRIMINAL TRESPASS: United States, Hometown, , Cook, Chicago
+1;CRIMINAL TRESPASS: United States, Forest View, , Cook, Chicago
+1;CRIMINAL TRESPASS: United States, Evergreen Park, Cook, Chicago, Illinois
+1;CRIMINAL TRESPASS: United States, Elmwood Park, Cook, Chicago, Illinois
+1;CRIMINAL TRESPASS: United States, Cook, Chicago, Lake, Hammond
+1;CRIMINAL TRESPASS: United States, Chicago, Harwood Heights, Cook, Chicago
+1;CRIMINAL TRESPASS: United States, Burbank, Hometown, Cook, Chicago
+1;CRIMINAL TRESPASS: United States, Bedford Park, Burbank, Cook, Chicago
+1;CRIMINAL TRESPASS: United States, , Cook, Chicago, Illinois
+1;CRIMINAL DAMAGE: United States, Summit, Forest View, Cook, Chicago
+1;CRIMINAL DAMAGE: United States, Summit, Forest View, , Cook
+1;CRIMINAL DAMAGE: United States, Stickney, Cicero, Cook, Chicago
+1;CRIMINAL DAMAGE: United States, Skokie, Lincolnwood, Cook, Chicago
+1;CRIMINAL DAMAGE: United States, River Grove, Cook, Chicago, Illinois
+1;CRIMINAL DAMAGE: United States, River Grove, Chicago, Norridge, Elmwood Park
+1;CRIMINAL DAMAGE: United States, Park Ridge, Chicago, Norridge, Harwood Heights
+1;CRIMINAL DAMAGE: United States, Oak Park, Cicero, Cook, Chicago
+1;CRIMINAL DAMAGE: United States, Oak Park, Berwyn, Cicero, Cook
+1;CRIMINAL DAMAGE: United States, Indiana, Cook, Chicago, Lake
+1;CRIMINAL DAMAGE: United States, Indiana, Cook, Chicago, Burnham
+1;CRIMINAL DAMAGE: United States, Hometown, Cook, Chicago, Illinois
+1;CRIMINAL DAMAGE: United States, Elmwood Park, Oak Park, Cook, Chicago
+1;CRIMINAL DAMAGE: United States, Cook, Chicago, Riverdale, Dolton
+1;CRIMINAL DAMAGE: United States, Chicago, Norridge, Elmwood Park, Cook
+1;CRIMINAL DAMAGE: United States, , Cook, Chicago, Illinois
+1;CRIM SEXUAL ASSAULT: United States, Park Ridge, Chicago, Norridge, Cook
+1;CRIM SEXUAL ASSAULT: United States, Lyons, Summit, Forest View, Cook
+1;CRIM SEXUAL ASSAULT: United States, Cook, Sixth district, IL, Chicago
+1;CRIM SEXUAL ASSAULT: United States, Cook, Chicago, Riverdale, Illinois
+1;CRIM SEXUAL ASSAULT: United States, Bedford Park, Cook, Chicago, Illinois
+1;CONCEALED CARRY LICENSE VIOLATION: United States, Cook, Sixth district, IL, Chicago
+1;BURGLARY: United States, Skokie, Lincolnwood, Cook, Chicago
+1;BURGLARY: United States, Skokie, Evanston, Cook, Chicago
+1;BURGLARY: United States, River Grove, Elmwood Park, Cook, Chicago
+1;BURGLARY: United States, River Forest, Elmwood Park, Oak Park, Cook
+1;BURGLARY: United States, Park Ridge, Chicago, Norridge, Cook
+1;BURGLARY: United States, Park Ridge, Chicago, Harwood Heights, Cook
+1;BURGLARY: United States, Niles, Skokie, Lincolnwood, Cook
+1;BURGLARY: United States, Lyons, Summit, Forest View, Cook
+1;BURGLARY: United States, Hometown, Evergreen Park, , Cook
+1;BURGLARY: United States, Cook, Chicago, Dolton, Illinois
+1;BURGLARY: United States, Cook, Chicago, Burnham, Illinois
+1;BURGLARY: United States, Bedford Park, Summit, Cook, Chicago
+1;BURGLARY: United States, Bedford Park, Burbank, Cook, Chicago
+1;BURGLARY: United States, , Cook, Chicago, Illinois
+1;BATTERY: United States, Stickney, Cook, Chicago, Illinois
+1;BATTERY: United States, Skokie, Lincolnwood, Cook, Chicago
+1;BATTERY: United States, Niles, Skokie, Lincolnwood, Cook
+1;BATTERY: United States, Lyons, Summit, Forest View, Cook
+1;BATTERY: United States, Indiana, Cook, Chicago, Lake
+1;BATTERY: United States, Hometown, , Cook, Chicago
+1;BATTERY: United States, Cook, Illinois
+1;BATTERY: United States, Cook, Chicago, Lake, Hammond
+1;BATTERY: United States, Cook, Chicago, Illinois, Lincoln Park
+1;BATTERY: United States, Chicago, Norridge, Elmwood Park, Cook
+1;BATTERY: United States, , Cook, Sixth district, IL
+1;ASSAULT: United States, Summit, Forest View, Cook, Chicago
+1;ASSAULT: United States, Stickney, Forest View, Cicero, Cook
+1;ASSAULT: United States, Skokie, Lincolnwood, Evanston, Cook
+1;ASSAULT: United States, Skokie, Lincolnwood, Cook, Chicago
+1;ASSAULT: United States, River Grove, Chicago, Norridge, Elmwood Park
+1;ASSAULT: United States, River Forest, Elmwood Park, Oak Park, Cook
+1;ASSAULT: United States, Park Ridge, , Cook, Chicago
+1;ASSAULT: United States, Niles, Skokie, Lincolnwood, Cook
+1;ASSAULT: United States, Cook, Chicago, Lake, Hammond
+1;ASSAULT: United States, Cook, Chicago, Illinois, Rogers Park
+1;ASSAULT: United States, Chicago, Norridge, Harwood Heights, Cook
+1;ASSAULT: United States, Chicago, Norridge, Harwood Heights, 
+1;ASSAULT: United States, Bedford Park, Summit, Cook, Chicago
+1;ASSAULT: United States, , Cook, Sixth district, IL
+1;ARSON: United States, Evanston, Cook, Chicago, Illinois
+1;ARSON: United States, Cook, Chicago, Riverdale, Dolton
+1;ARSON: United States, Cicero, Cook, Chicago, Illinois
+1;ARSON: United States, Chicago, Norridge, Cook, Chicago

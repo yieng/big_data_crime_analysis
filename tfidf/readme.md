@@ -10,6 +10,6 @@ To calculate the inverse document frequency (IDF), distinct terms were first col
 
 The output files from the TF and IDF programs, as well as the original comments, were the input files of tfidf.py and tfidf_uk.py. These two programs multiply the TF’s and IDF’s of each term in each comment, pick out the 5 terms with the highest TF.IDF scores, and then append them to the original comment.  
 
-Finally, relevant_chicago_illinois.py and relevant_uk.py go through the top 5 terms (in terms of TF.IDF scores) of each comment. If these 5 terms contain both location and crime type keywords, the corresponding comment is selected and written to a file named (crime type)_(location).txt for the Chicago class of comments, or (crime type)_(location)_uk.txt for the UK class of comments.  
+Finally, relevant_chicago_illinois.py and relevant_uk.py go through the top 5 terms (in terms of TF.IDF scores) of each comment. If these 5 terms contain both location and crime type keywords, the corresponding comment is selected and written to a file named (crime type)\_(location).txt for the Chicago class of comments, or (crime type)\_(location)\_uk.txt for the UK class of comments.  
 
 Note that different sections in the programs were timed so that the programmer could better estimate the time needed to complete each procedure.  
